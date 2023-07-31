@@ -9,6 +9,6 @@ public class HelloController {
 	
 	@RequestMapping(method = RequestMethod.GET, value = "/api/javainuse")
 	public String sayHello() {
-		return "Swagger Hello World";
+		return "Swagger Hello(23) World";
 	}
 }
