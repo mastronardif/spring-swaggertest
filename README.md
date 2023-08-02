@@ -7,4 +7,4 @@ run: in the root where .pon file is
 
 3 mvn spring-boot:run
 
-
+http://localhost:8092/swagger-ui.html#!/greeting-controller/getGreetingUsingGET
